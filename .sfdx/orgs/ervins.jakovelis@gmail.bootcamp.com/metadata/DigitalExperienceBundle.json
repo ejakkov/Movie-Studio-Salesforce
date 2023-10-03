@@ -1,0 +1,18 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "2023-08-24T11:57:05.000Z",
+      "fileName": "digitalExperiences/site/Movies1.digitalExperience",
+      "fullName": "site/Movies1",
+      "id": "0jd06000000sY34AAE",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "2023-08-24T11:57:05.000Z",
+      "manageableState": "unmanaged",
+      "type": "DigitalExperienceBundle"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+.movie-card{
+    width: 350px;
+    height: 530px;
+    display: grid;
+    background-color: aliceblue;
+    position: relative;
+}
+.movie-details {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1; 
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 65px;
+}
+
+.movie-title {
+    font-size: 18px;
+    font-weight: bold;
+    white-space: pre-wrap;
+}
+
+.movie-info {
+    display: flex;
+    flex-direction: column; 
+    margin-top: 5px;
+    
+}
+
+.movie-rating,
+.movie-genre {
+    margin-top: 2px;
+    /* white-space: nowrap; */
+}
+
+.details-button {
+    position: absolute; 
+    text-align: right;
+    cursor: pointer;
+    top: 10px; 
+    right: 10px; 
+    left: 10px;
+    padding-left: 10px;
+}
+
+.movie-poster-container {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    
+}
+
+.movie-poster {
+    height: 400px;
+    width: 300px;
+    margin: 10 25 25 25;
+
+}

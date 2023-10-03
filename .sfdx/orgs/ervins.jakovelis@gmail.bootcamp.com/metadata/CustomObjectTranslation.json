@@ -1,0 +1,57 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/Script__c-en_US.objectTranslation",
+      "fullName": "Script__c-en_US",
+      "id": "",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    },
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/Cast__c-en_US.objectTranslation",
+      "fullName": "Cast__c-en_US",
+      "id": "",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    },
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/Movie__c-en_US.objectTranslation",
+      "fullName": "Movie__c-en_US",
+      "id": "",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    },
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/MovieList__c-en_US.objectTranslation",
+      "fullName": "MovieList__c-en_US",
+      "id": "",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    }
+  ]
+}

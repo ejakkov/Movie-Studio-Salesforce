@@ -1,0 +1,70 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "2023-08-09T12:11:56.000Z",
+      "fileName": "tabs/Cast__c.tab",
+      "fullName": "Cast__c",
+      "id": "01r060000003siTAAQ",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "2023-08-09T12:11:56.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomTab"
+    },
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "2023-08-09T10:32:52.000Z",
+      "fileName": "tabs/Script__c.tab",
+      "fullName": "Script__c",
+      "id": "01r060000003siJAAQ",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "2023-08-09T10:32:52.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomTab"
+    },
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "2023-08-09T11:22:29.000Z",
+      "fileName": "tabs/Movie__c.tab",
+      "fullName": "Movie__c",
+      "id": "01r060000003siOAAQ",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "2023-08-09T11:22:29.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomTab"
+    },
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "2023-08-24T06:42:23.000Z",
+      "fileName": "tabs/Movie_To_Upload.tab",
+      "fullName": "Movie_To_Upload",
+      "id": "01r060000003syhAAA",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "2023-08-24T06:42:23.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomTab"
+    },
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "2023-08-21T09:56:35.000Z",
+      "fileName": "tabs/Movie_List.tab",
+      "fullName": "Movie_List",
+      "id": "01r060000003suQAAQ",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "2023-08-21T09:57:33.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomTab"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "2023-08-06T20:03:44.000Z",
+      "fileName": "duplicateRules/Contact.Standard_Contact_Duplicate_Rule.duplicateRule",
+      "fullName": "Contact.Standard_Contact_Duplicate_Rule",
+      "id": "0Bm06000001h4hQCAQ",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "2023-08-06T20:03:44.000Z",
+      "manageableState": "unmanaged",
+      "type": "DuplicateRule"
+    },
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "2023-08-09T08:04:42.000Z",
+      "fileName": "duplicateRules/Account.Account_name_check.duplicateRule",
+      "fullName": "Account.Account_name_check",
+      "id": "0Bm06000001h8lMCAQ",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "2023-08-09T08:05:01.000Z",
+      "manageableState": "unmanaged",
+      "type": "DuplicateRule"
+    },
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "2023-08-06T20:03:44.000Z",
+      "fileName": "duplicateRules/Account.Standard_Account_Duplicate_Rule.duplicateRule",
+      "fullName": "Account.Standard_Account_Duplicate_Rule",
+      "id": "0Bm06000001h4hPCAQ",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "2023-08-06T20:03:44.000Z",
+      "manageableState": "unmanaged",
+      "type": "DuplicateRule"
+    },
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "2023-08-06T20:03:44.000Z",
+      "fileName": "duplicateRules/Lead.Standard_Lead_Duplicate_Rule.duplicateRule",
+      "fullName": "Lead.Standard_Lead_Duplicate_Rule",
+      "id": "0Bm06000001h4hRCAQ",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "2023-08-06T20:03:44.000Z",
+      "manageableState": "unmanaged",
+      "type": "DuplicateRule"
+    }
+  ]
+}

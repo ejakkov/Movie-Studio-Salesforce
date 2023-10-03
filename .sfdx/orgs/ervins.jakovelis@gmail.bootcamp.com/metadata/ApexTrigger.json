@@ -1,0 +1,18 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0050600000EssvRAAR",
+      "createdByName": "Ervīns Jakovelis",
+      "createdDate": "2023-08-14T12:07:39.000Z",
+      "fileName": "triggers/MovieTrigger.trigger",
+      "fullName": "MovieTrigger",
+      "id": "01q06000000qnTmAAI",
+      "lastModifiedById": "0050600000EssvRAAR",
+      "lastModifiedByName": "Ervīns Jakovelis",
+      "lastModifiedDate": "2023-08-17T13:16:29.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    }
+  ]
+}

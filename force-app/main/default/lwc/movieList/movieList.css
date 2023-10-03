@@ -1,0 +1,27 @@
+.movie-card-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Creates 4 columns with equal width */
+    gap: 20px; /* Gap between columns */
+}
+.horizontal-picklist {
+    display: flex;
+    align-items: center;
+}
+
+.genre-picklist {
+    flex: 1; /* This will make the picklist expand to fill available space */
+    width: 100%; /* Ensure the picklist takes up the entire width */
+    max-width: none; /* Disable any max-width set previously */
+    padding: 5px; /* Add padding for a better visual appearance */
+}
+
+.pick-genre{
+    background-color: aliceblue;
+    font-size: 13px;
+    margin-left: 5px;
+}
+
+.genre-intro{
+    font-size: 18px;
+    font-weight: bold;
+}

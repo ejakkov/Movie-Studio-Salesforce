@@ -1,0 +1,12 @@
+<template>
+    <div class="movie-poster">
+        <template if:true={movie.data}>
+            <div class="movie-item">
+                <img src= {movie.data.PosterURL__c} alt="Movie Poster" />
+            </div>
+        </template>
+        <template if:false={movie.data}>
+            <div class="no-movie">No movie found</div>
+        </template>
+    </div>
+</template>

@@ -1,0 +1,14 @@
+<template>
+    <div class="container">
+        <div class="header">MOVIES WITH CORRESPONDING TITLE TO IMPORT FROM TMDB:</div>
+        <div class="movie-container">
+            <template for:each={result.data} for:item="movie">
+                <div class="movie-card" key={movie.id}>
+                    <button class="movie-title" value={movie.original_title} onclick={handleMovieButtonClick} data-id={movie.id} >{movie.original_title}</button>
+                    <div class="movie-rating">Rating: {movie.vote_average}</div>
+                    <div class="movie-description">Description: {movie.overview}</div>
+                </div>
+            </template>
+        </div>
+    </div>
+</template>

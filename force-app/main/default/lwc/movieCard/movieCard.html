@@ -1,0 +1,29 @@
+<template>
+    <div class="movie-card">
+        <template if:true={movie}>
+            <div class="movie-details">
+                <div class="movie-title">
+                    <h1>{movie.Title__c}</h1>
+                </div>
+                <div class="movie-info">
+                    <div class="movie-genre">Genre: {movie.Genre__c}</div>
+                    <div class="movie-rating">Rating: {movie.Rating__c}</div>
+                </div>
+            </div>
+            <div class="details-button">
+                <lightning-button
+                    label="Details"
+                    onclick={handleDetailsClick}
+                    variant="brand"
+                ></lightning-button>
+            </div>
+            <div class="movie-poster-container">
+                <img src={movie.PosterURL__c} alt="Movie Poster" class="movie-poster" />
+            </div>
+        </template>
+        <template if:false={movie}>
+            <div class="no-movie">No movie found</div>
+            <h1> {movie.Title__c}</h1>
+        </template>
+    </div>
+</template>

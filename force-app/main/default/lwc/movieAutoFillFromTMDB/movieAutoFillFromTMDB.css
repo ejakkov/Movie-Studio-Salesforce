@@ -1,0 +1,45 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0; /* Neutral background color */
+}
+
+.header {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.movie-container {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.movie-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #fff; /* Neutral background color */
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+}
+
+.movie-title {
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: #0070d2;
+}
+
+.movie-rating,
+.movie-description {
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.movie-title.clicked {
+    color: #e95e38;
+}

@@ -1,0 +1,20 @@
+<template>
+    <div class="pick-genre">
+        <h1 class="genre-intro"> Genre: </h1>
+        <div class="horizontal-picklist">
+            <select id="genrePicklist" class="genre-picklist" onchange={handlePicklistChange}>
+                <option value="">-- Select Genre --</option>
+                <template for:each={genres.data} for:item="genre">
+                    <option key={genre.id} value={genre}>{genre}</option>
+                </template>
+            </select>
+        </div>
+    </div>
+    <div class="movie-catalog">
+        <div class="movie-card-container">
+            <template for:each={moviesToDisplay.data} for:item="movie">
+                <c-movie-card key={movie.Id} movie={movie}></c-movie-card>
+            </template>
+        </div>
+    </div>
+</template>
