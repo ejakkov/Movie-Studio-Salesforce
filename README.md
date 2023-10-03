@@ -1,30 +1,32 @@
-We are a movie studio, that produces various films.<br />
-To make a film we need several things to happen:<br />
-We need to allocate a budget for a film.<br />
-We need a list of partners who provide various services:
+# Movie Studio<br /> # 
+To make a film we need several things to happen: <br/>
+<br> &nbsp; We need to allocate a budget for a film.<br />
+
+ &nbsp; We need a list of partners who provide various services:
 <br />
-Cast: provides people that take part in the movie - actors, directors, 
-cinematographers, etc.
+&nbsp; &nbsp; Cast: provides people that take part in the movie - **actors, directors, 
+cinematographers, etc.**
 <br />
-We need to be able to estimate the costs of making a movie:
-Each team member charges a certain amount of money per hour and each movie has 
+We need to be able to **estimate the costs** of making a movie:<br />
+Each team member charges a certain ***amount of money per hour*** and each movie has 
 certain budget allocated.
 <br />
-We need to be able to estimate the time when the movie will be available in theaters:
-Preproduction, production, and postproduction times can be estimated based on the 
+We need to be able to estimate the time when the movie will be available in theaters: <br />
+**Preproduction, production, and postproduction** times can be estimated based on the 
 script.
 <br />
+<br />
 Each team member has availability since they might be involved in other projects.
-Script provides data of the number of actors needed for a movie, filming locations and 
-production times.<br />
+Script provides data of the **number of actors needed for a movie, filming locations and 
+production times**.<br />
 Script already exists before film budget and timeline planning.
 It is stored in separate object in Salesforce with following properties:
 <br />
-Period needed for production (like 20 days)<br />
-Number of actors needed<br />
-Locations <br />
-<br />
-We want to track financial information about by the movie – revenue, budget, actor costs, 
+* Period needed for production (like 20 days)
+* Number of actors needed
+* Locations
+
+We want to track financial information about by the movie – ***revenue, budget, actor costs***, 
 that we receive in CSV format, and it needs to be updated on movie records.
 <br />
 We would like to have a catalog of movies and be able to search for movies by genre to 
