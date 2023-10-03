@@ -1,8 +1,8 @@
-We are a movie studio, that produces various films.
-To make a film we need several things to happen:
-We need to allocate a budget for a film.
+We are a movie studio, that produces various films.<br />
+To make a film we need several things to happen:<br />
+We need to allocate a budget for a film.<br />
 We need a list of partners who provide various services:
-
+<br />
 Cast: provides people that take part in the movie - actors, directors, 
 cinematographers, etc.
 
