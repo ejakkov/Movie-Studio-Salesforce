@@ -1,10 +1,10 @@
 # Movie Studio<br /> # 
 To make a film we need several things to happen: <br/>
-<br> &nbsp; We need to allocate a budget for a film.<br />
+<br> We need to allocate a budget for a film.<br />
 
- &nbsp; We need a list of partners who provide various services:
+We need a list of partners who provide various services:
 <br />
-&nbsp; &nbsp; Cast: provides people that take part in the movie - **actors, directors, 
+Cast: provides people that take part in the movie - **actors, directors, 
 cinematographers, etc.**
 <br />
 We need to be able to **estimate the costs** of making a movie:<br />
